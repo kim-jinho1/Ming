@@ -7,7 +7,7 @@ public class AA : MonoBehaviour
     //±è¼Òºó ¼öÁ¤
     void Start()
     {
-        Debug.Log("aa");
+        Debug.Log(1);
     }
 
     // Update is called once per frame
